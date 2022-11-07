@@ -5,7 +5,7 @@ VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PageObject", "lab_2\PageObject.csproj", "{9DCEF79D-EA83-47CD-9964-8BA92C001AA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerPage.cs", "SpecFlowProject1\CustomerPage.cs.csproj", "{FDE3194A-C9CA-4E8F-810D-C9A9BBB14B4B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowProject.cs", "SpecFlowProject1\SpecFlowProject.cs.csproj", "{FDE3194A-C9CA-4E8F-810D-C9A9BBB14B4B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

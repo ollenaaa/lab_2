@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lena/Desktop/lab_2/SpecFlowProject1/CustomerPage.cs.csproj": {}
+    "/Users/lena/Desktop/lab_2/SpecFlowProject1/SpecFlowProject.cs.csproj": {}
   },
   "projects": {
     "/Users/lena/Desktop/lab_2/lab_2/PageObject.csproj": {
@@ -71,12 +71,12 @@
         }
       }
     },
-    "/Users/lena/Desktop/lab_2/SpecFlowProject1/CustomerPage.cs.csproj": {
+    "/Users/lena/Desktop/lab_2/SpecFlowProject1/SpecFlowProject.cs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lena/Desktop/lab_2/SpecFlowProject1/CustomerPage.cs.csproj",
-        "projectName": "CustomerPage.cs",
-        "projectPath": "/Users/lena/Desktop/lab_2/SpecFlowProject1/CustomerPage.cs.csproj",
+        "projectUniqueName": "/Users/lena/Desktop/lab_2/SpecFlowProject1/SpecFlowProject.cs.csproj",
+        "projectName": "SpecFlowProject.cs",
+        "projectPath": "/Users/lena/Desktop/lab_2/SpecFlowProject1/SpecFlowProject.cs.csproj",
         "packagesPath": "/Users/lena/.nuget/packages/",
         "outputPath": "/Users/lena/Desktop/lab_2/SpecFlowProject1/obj/",
         "projectStyle": "PackageReference",

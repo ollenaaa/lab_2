@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SbAa89i++UyAWFCjZFoV15gwASqtA7Zfgg+ZF+6D9RNAb7p1ABWIeMj9Br33HWGSPXOBFc55/wNtcsaKY106Dw==",
+  "dgSpecHash": "9n8L0c8azvb5/nX7oHgxcrvfnq9l2kNSH5z1siPr9D2i0xeoQD6yaKTGRzJjvIYSZ8uMcsRMzKSEtpJ/Nrk6cQ==",
   "success": true,
-  "projectFilePath": "/Users/lena/Downloads/lab_2/lab_2/PageObject.csproj",
+  "projectFilePath": "/Users/lena/Desktop/lab_2/lab_2/PageObject.csproj",
   "expectedPackageFiles": [
     "/Users/lena/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
     "/Users/lena/.nuget/packages/selenium.webdriver/4.5.1/selenium.webdriver.4.5.1.nupkg.sha512",

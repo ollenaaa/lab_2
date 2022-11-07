@@ -130,11 +130,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lena/Downloads/lab_2/lab_2/PageObject.csproj",
+      "projectUniqueName": "/Users/lena/Desktop/lab_2/lab_2/PageObject.csproj",
       "projectName": "PageObject",
-      "projectPath": "/Users/lena/Downloads/lab_2/lab_2/PageObject.csproj",
+      "projectPath": "/Users/lena/Desktop/lab_2/lab_2/PageObject.csproj",
       "packagesPath": "/Users/lena/.nuget/packages/",
-      "outputPath": "/Users/lena/Downloads/lab_2/lab_2/obj/",
+      "outputPath": "/Users/lena/Desktop/lab_2/lab_2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/lena/.nuget/NuGet/NuGet.Config"

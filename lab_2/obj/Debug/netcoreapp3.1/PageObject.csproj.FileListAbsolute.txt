@@ -18,3 +18,13 @@ C:/Users/владелец/source/repos/lab_2/lab_2/obj/Debug/netcoreapp3.1/PageO
 /Users/lena/Downloads/lab_2/lab_2/obj/Debug/netcoreapp3.1/PageObject.csproj.CoreCompileInputs.cache
 /Users/lena/Downloads/lab_2/lab_2/obj/Debug/netcoreapp3.1/PageObject.dll
 /Users/lena/Downloads/lab_2/lab_2/obj/Debug/netcoreapp3.1/PageObject.pdb
+/Users/lena/Desktop/lab_2/lab_2/bin/Debug/netcoreapp3.1/PageObject.deps.json
+/Users/lena/Desktop/lab_2/lab_2/bin/Debug/netcoreapp3.1/PageObject.dll
+/Users/lena/Desktop/lab_2/lab_2/bin/Debug/netcoreapp3.1/PageObject.pdb
+/Users/lena/Desktop/lab_2/lab_2/obj/Debug/netcoreapp3.1/PageObject.csproj.AssemblyReference.cache
+/Users/lena/Desktop/lab_2/lab_2/obj/Debug/netcoreapp3.1/PageObject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lena/Desktop/lab_2/lab_2/obj/Debug/netcoreapp3.1/PageObject.AssemblyInfoInputs.cache
+/Users/lena/Desktop/lab_2/lab_2/obj/Debug/netcoreapp3.1/PageObject.AssemblyInfo.cs
+/Users/lena/Desktop/lab_2/lab_2/obj/Debug/netcoreapp3.1/PageObject.csproj.CoreCompileInputs.cache
+/Users/lena/Desktop/lab_2/lab_2/obj/Debug/netcoreapp3.1/PageObject.dll
+/Users/lena/Desktop/lab_2/lab_2/obj/Debug/netcoreapp3.1/PageObject.pdb

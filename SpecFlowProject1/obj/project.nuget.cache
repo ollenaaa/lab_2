@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y/pB4iHmv8lLMQzM/ZB0YwDxf56tPeQok6Vt4J3+HcxY+0G/dz1Z0BnOLv+JT5y/E7RUrMr5snOJn5nYdf60Iw==",
+  "dgSpecHash": "HwdPimG4PvVRHffF35g92oNLBchdTFM/kaVEKVfPr9WSdDL5KxjZl0UA7Zf9KSeWtWKTwSbw4aZYZ9ppym6y6w==",
   "success": true,
-  "projectFilePath": "/Users/lena/Downloads/lab_2/SpecFlowProject1/CustomerPage.cs.csproj",
+  "projectFilePath": "/Users/lena/Desktop/lab_2/SpecFlowProject1/SpecFlowProject.cs.csproj",
   "expectedPackageFiles": [
     "/Users/lena/.nuget/packages/bodi/1.5.0/bodi.1.5.0.nupkg.sha512",
     "/Users/lena/.nuget/packages/fluentassertions/6.2.0/fluentassertions.6.2.0.nupkg.sha512",
