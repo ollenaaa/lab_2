@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "HwdPimG4PvVRHffF35g92oNLBchdTFM/kaVEKVfPr9WSdDL5KxjZl0UA7Zf9KSeWtWKTwSbw4aZYZ9ppym6y6w==",
+  "dgSpecHash": "9nO6PKkppu7tlsq3nWNadWptHS7Y8OCqOVgJyM4BdUk4U1rzMGxiDDaveS7WQnZVDlmS+fs5F4CrtWKmTFCCPw==",
   "success": true,
   "projectFilePath": "/Users/lena/Desktop/lab_2/SpecFlowProject1/SpecFlowProject.cs.csproj",
   "expectedPackageFiles": [
     "/Users/lena/.nuget/packages/bodi/1.5.0/bodi.1.5.0.nupkg.sha512",
+    "/Users/lena/.nuget/packages/dotnetseleniumextras.pageobjects/3.11.0/dotnetseleniumextras.pageobjects.3.11.0.nupkg.sha512",
     "/Users/lena/.nuget/packages/fluentassertions/6.2.0/fluentassertions.6.2.0.nupkg.sha512",
     "/Users/lena/.nuget/packages/gherkin/19.0.3/gherkin.19.0.3.nupkg.sha512",
     "/Users/lena/.nuget/packages/microsoft.codecoverage/17.0.0/microsoft.codecoverage.17.0.0.nupkg.sha512",
@@ -40,6 +41,7 @@
     "/Users/lena/.nuget/packages/selenium.webdriver.chromedriver/107.0.5304.6200/selenium.webdriver.chromedriver.107.0.5304.6200.nupkg.sha512",
     "/Users/lena/.nuget/packages/selenium.webdriver.iedriver/4.6.0/selenium.webdriver.iedriver.4.6.0.nupkg.sha512",
     "/Users/lena/.nuget/packages/selenium.webdriver.microsoftdriver/17.17134.0/selenium.webdriver.microsoftdriver.17.17134.0.nupkg.sha512",
+    "/Users/lena/.nuget/packages/seleniumextras.waithelpers/1.0.2/seleniumextras.waithelpers.1.0.2.nupkg.sha512",
     "/Users/lena/.nuget/packages/specflow/3.9.40/specflow.3.9.40.nupkg.sha512",
     "/Users/lena/.nuget/packages/specflow.internal.json/1.0.8/specflow.internal.json.1.0.8.nupkg.sha512",
     "/Users/lena/.nuget/packages/specflow.nunit/3.9.40/specflow.nunit.3.9.40.nupkg.sha512",

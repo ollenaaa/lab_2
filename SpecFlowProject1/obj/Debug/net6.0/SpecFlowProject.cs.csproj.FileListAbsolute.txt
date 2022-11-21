@@ -117,3 +117,5 @@
 /Users/lena/Desktop/lab_2/SpecFlowProject1/obj/Debug/net6.0/SpecFlowProject.cs.pdb
 /Users/lena/Desktop/lab_2/SpecFlowProject1/obj/Debug/net6.0/SpecFlowProject.cs.genruntimeconfig.cache
 /Users/lena/Desktop/lab_2/SpecFlowProject1/obj/Debug/net6.0/ref/SpecFlowProject.cs.dll
+/Users/lena/Desktop/lab_2/SpecFlowProject1/bin/Debug/net6.0/SeleniumExtras.PageObjects.dll
+/Users/lena/Desktop/lab_2/SpecFlowProject1/bin/Debug/net6.0/SeleniumExtras.WaitHelpers.dll

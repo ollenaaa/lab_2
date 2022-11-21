@@ -1,23 +1,55 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workbench>
+﻿<Properties StartupConfiguration="{FDE3194A-C9CA-4E8F-810D-C9A9BBB14B4B}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SpecFlowProject.cs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="lab_2/CustomersPage.cs">
+    <Files>
+      <File FileName="SpecFlowProject1/StepDefinitions/SortPostCodeStepDefinitions.cs" Line="48" Column="44" />
+      <File FileName="lab_2/BasePage.cs" Line="9" Column="1" />
+      <File FileName="lab_2/CustomersPage.cs" Line="24" Column="9" />
+      <File FileName="lab_2/ManagerPage.cs" Line="7" Column="1" />
+      <File FileName="lab_2/LoginPage.cs" Line="5" Column="34" />
+      <File FileName="lab_2/CustomerPage.cs" Line="19" Column="87" />
+      <File FileName="SpecFlowProject1/Features/SortPostCode.feature" Line="12" Column="1" />
+      <File FileName="SpecFlowProject1/StepDefinitions/BaseSteps.cs" Line="1" Column="1" />
+      <File FileName="SpecFlowProject1/Features/SortPostCode.feature.cs" Line="1" Column="1" />
+      <File FileName="SpecFlowProject1/ImplicitUsings.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="lab_2" expanded="True">
             <Node name="PageObject" expanded="True" />
+            <Node name="SpecFlowProject.cs" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Features" expanded="True" />
+              <Node name="StepDefinitions" expanded="True">
+                <Node name="BaseSteps.cs" selected="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
         <State />
       </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="lab_2" expanded="True">
+            <Node name="SpecFlowProject.cs" expanded="True">
+              <Node name="SpecFlowProject.cs.Features" expanded="True">
+                <Node name="SortPostCodeFeature" expanded="True">
+                  <Node name="SortingPostsCode" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.SpecFlowProject.cs PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
 </Properties>

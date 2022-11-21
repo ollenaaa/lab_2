@@ -10,11 +10,12 @@ namespace PageObject
     public class ManagerPage:BasePage
     {
         public static WebDriverWait wait;
+
         public ManagerPage(IWebDriver webDriver):base(webDriver)
         {
             wait = new WebDriverWait(webDriver, TimeSpan.FromSeconds(10));
         }
-        private IWebElement btnCustomers => driver.FindElement(By.XPath("//button[@ng-click ='showCust()']"));
+        private IWebElement btnCustomers => wait.Until(e => e.FindElement(By.XPath("//button[@ng-click ='showCust()']")));
         public void ClickCustomers() => btnCustomers.Click();
     }
 }

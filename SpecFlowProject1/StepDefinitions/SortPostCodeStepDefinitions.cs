@@ -11,7 +11,7 @@ namespace SpecFlowProject1.StepDefinitions
     [Binding]
     public class SortPostCodeStepDefinitions:BaseSteps
     {
-        private CustomersPage customersPage;
+        private CustomerPage customerPage;
         private LoginPage loginPage;
         private ManagerPage managerPage;
         List<string> actualListOfPostCodes = new List<string>();
@@ -25,6 +25,7 @@ namespace SpecFlowProject1.StepDefinitions
             loginPage = new LoginPage(driver);
         }
 
+
         [Given(@"I click on the Bank Manager Login link")]
         public void GivenIClickOnTheBankManagerLoginLink()
         {
@@ -36,24 +37,25 @@ namespace SpecFlowProject1.StepDefinitions
         public void GivenIClickOnTheCustomersMenuItem()
         {
             managerPage.ClickCustomers();
-            //customersPage = new CustomersPage(driver);
         }
 
         [When(@"I click on the Sorting Button header")]
         public void WhenIClickOnTheSortingButtonHeader()
         {
-            
-            customersPage.ClickSortPostCode();
-            expectedListOfPostCodes = customersPage.GetPostCode();
+            customerPage = new CustomerPage(driver);
+            Thread.Sleep(1000);
+            expectedListOfPostCodes = customerPage.GetPostCode();
             expectedListOfPostCodes.Sort();
-            customersPage.ClickSortPostCode();
-            actualListOfPostCodes = customersPage.GetPostCode();
+            expectedListOfPostCodes.Reverse();
+            customerPage.ClickSortPostCode();
+            Thread.Sleep(1000);
+            actualListOfPostCodes = customerPage.GetPostCode();
         }
 
         [Then(@"I should see sort post code")]
         public void ThenIShouldSeeSortPostCode()
         {
-            Assert.AreEqual(actualListOfPostCodes, expectedListOfPostCodes);
+            Assert.AreEqual(expectedListOfPostCodes, actualListOfPostCodes);
         }
     }
 }
